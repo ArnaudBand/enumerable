@@ -2,7 +2,7 @@ require './my_list'
 
 # Create our list
 list = MyList.new(1, 2, 3, 4)
-puts list
+
 # Test #all?
 puts(list.all? { |e| e < 5 })
 puts(list.all? { |e| e > 5 })
