@@ -1,6 +1,6 @@
-# Ruby Course
+# Enumerable
 
-If you are not familiar with linters and GitHub Actions, read [root level README](../README.md).
+In this project I learnt how to use a module inside a Ruby class.
 
 ## Set-up Rubocop GitHub Action
 
@@ -65,3 +65,39 @@ Click on the `Details` link of the test action to check the results of your test
     cannot load such file -- colorize
     ```
     please remove ```--deployment``` from line no. [26](https://github.com/shubham14p3/Ruby-capstone-project/blob/ca86784cc88bea7c933e329c0953f07e21bcf6ca/.github/workflows/tests.yml#L16) of test.yml file.
+
+
+## Authors
+
+👤 **Bandonkeye Arnaud**
+
+- GitHub: [@githubhandle](https://github.com/ArnaudBand)
+- Twitter: [@twitterhandle](https://twitter.com/@ba104781)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ArnaudBandonkeye/)
+
+👤 **Emmanuel Orji-Ihuoma**
+
+- GitHub: [@emmiiorji](https://github.com/ArnaudBand)
+- Twitter: [@emmiiorji](https://twitter.com/@emmiiorji)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/orji-emmanuel)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
