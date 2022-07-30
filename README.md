@@ -77,7 +77,7 @@ Click on the `Details` link of the test action to check the results of your test
 
 👤 **Emmanuel Orji-Ihuoma**
 
-- GitHub: [@emmiiorji](https://github.com/ArnaudBand)
+- GitHub: [@emmiiorji](https://github.com/emmiiorji)
 - Twitter: [@emmiiorji](https://twitter.com/@emmiiorji)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/orji-emmanuel)
 
